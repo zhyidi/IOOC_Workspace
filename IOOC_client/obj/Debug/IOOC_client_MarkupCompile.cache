@@ -1,0 +1,20 @@
+﻿IOOC_client
+
+
+winexe
+C#
+.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\
+IOOC_client
+none
+false
+DEBUG;TRACE
+E:\source\VS\IOOC_Workspace\IOOC_client\App.xaml
+20-1704374985
+
+251159358836
+18-896589002
+AboutUsWindow.xaml;diagnostic.workstation\ApplyConsultationWindow.xaml;diagnostic.workstation\DepartmentConsultationWindow.xaml;director.workstation\DepartmentInformationManageWindow.xaml;director.workstation\DiagnosticReportManageWindow.xaml;director.workstation\DoctorInformationManageWindow.xaml;reset Password.xaml;Retrieve_passwd.xaml;sampling.workstation\GetInfoWindow.xaml;HomeWindow.xaml;diagnostic.workstation\ImageViewWindow.xaml;LoginWindow.xaml;diagnostic.workstation\MyCaseWindow.xaml;director.workstation\PathologicalDataManageWindow.xaml;director.workstation\PatientInformationManageWindow.xaml;sampling.workstation\PatientRegisterWindow..xaml;PersonalSettingWindow.xaml;diagnostic.workstation\ReportDiagnosisWindow.xaml;sampling.workstation\SliceWindow.xaml;director.workstation\UserManageWindow.xaml;
+
+False
+

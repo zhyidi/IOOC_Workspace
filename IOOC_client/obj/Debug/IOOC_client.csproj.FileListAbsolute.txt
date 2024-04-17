@@ -1,0 +1,377 @@
+E:\source\VS\IOOC_client\bin\Debug\IOOC_client.exe.config
+E:\source\VS\IOOC_client\bin\Debug\IOOC_client.exe
+E:\source\VS\IOOC_client\bin\Debug\IOOC_client.pdb
+E:\source\VS\IOOC_client\obj\Debug\IOOC_client.csprojAssemblyReference.cache
+E:\source\VS\IOOC_client\obj\Debug\MainWindow.g.cs
+E:\source\VS\IOOC_client\obj\Debug\App.g.cs
+E:\source\VS\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.cache
+E:\source\VS\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.lref
+E:\source\VS\IOOC_client\obj\Debug\MainWindow.baml
+E:\source\VS\IOOC_client\obj\Debug\IOOC_client.g.resources
+E:\source\VS\IOOC_client\obj\Debug\IOOC_client.Properties.Resources.resources
+E:\source\VS\IOOC_client\obj\Debug\IOOC_client.csproj.GenerateResource.cache
+E:\source\VS\IOOC_client\obj\Debug\IOOC_client.csproj.CoreCompileInputs.cache
+E:\source\VS\IOOC_client\obj\Debug\IOOC_client.exe
+E:\source\VS\IOOC_client\obj\Debug\IOOC_client.pdb
+E:\source\VS\IOOC_client\bin\Debug\IOOC_client.exe.manifest
+E:\source\VS\IOOC_client\bin\Debug\IOOC_client.application
+E:\source\VS\IOOC_client\obj\Debug\IOOC_client.exe.manifest
+E:\source\VS\IOOC_client\obj\Debug\IOOC_client.application
+E:\source\VS\IOOC_client\obj\Debug\Home.g.cs
+E:\source\VS\IOOC_client\obj\Debug\Home.baml
+E:\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.config
+E:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe
+E:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.pdb
+E:\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.manifest
+E:\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.application
+E:\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe
+E:\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.pdb
+E:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.AssemblyReference.cache
+E:\IOOC_Workspace\IOOC_client\obj\Debug\Home.g.cs
+E:\IOOC_Workspace\IOOC_client\obj\Debug\MainWindow.g.cs
+E:\IOOC_Workspace\IOOC_client\obj\Debug\App.g.cs
+E:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.cache
+E:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.lref
+E:\IOOC_Workspace\IOOC_client\obj\Debug\Home.baml
+E:\IOOC_Workspace\IOOC_client\obj\Debug\MainWindow.baml
+E:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.g.resources
+E:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.Properties.Resources.resources
+E:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.GenerateResource.cache
+E:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.CoreCompileInputs.cache
+E:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe.manifest
+E:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.application
+E:\IOOC_Workspace\IOOC_client\obj\Debug\Diagnostic_Workstation.g.cs
+E:\IOOC_Workspace\IOOC_client\obj\Debug\Diagnostic_Workstation.baml
+E:\IOOC_Workspace\IOOC_client\obj\Debug\Apply_consultation.g.cs
+E:\IOOC_Workspace\IOOC_client\obj\Debug\My_cases.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.AssemblyReference.cache
+D:\IOOC_Workspace\IOOC_client\obj\Debug\App.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.cache
+D:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.lref
+D:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe
+D:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.pdb
+D:\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.config
+D:\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.manifest
+D:\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.application
+D:\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe
+D:\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.pdb
+D:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.g.resources
+D:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.Properties.Resources.resources
+D:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.GenerateResource.cache
+D:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.CoreCompileInputs.cache
+D:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe.manifest
+D:\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.application
+D:\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.g.cs
+D:\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.baml
+D:\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.config
+F:\软件工程\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.manifest
+F:\软件工程\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.application
+F:\软件工程\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe
+F:\软件工程\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.pdb
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csprojAssemblyReference.cache
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\App.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.cache
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.lref
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.baml
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.g.resources
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.Properties.Resources.resources
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.GenerateResource.cache
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.CoreCompileInputs.cache
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe.manifest
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.application
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe
+F:\软件工程\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.pdb
+E:\source\VS\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.config
+E:\source\VS\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.manifest
+E:\source\VS\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.application
+E:\source\VS\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe
+E:\source\VS\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.pdb
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\App.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.cache
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.lref
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.g.resources
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.Properties.Resources.resources
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.GenerateResource.cache
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.CoreCompileInputs.cache
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe.manifest
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.application
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.AssemblyReference.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\App.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.lref
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.config
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.g.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.Properties.Resources.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.GenerateResource.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.CoreCompileInputs.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.config
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.AssemblyReference.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\App.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.lref
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.g.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.Properties.Resources.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.GenerateResource.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.CoreCompileInputs.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.pdb
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\Retrieve_passwd.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\Retrieve_passwd.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\reset Password.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\reset Password.baml
+E:\source\VS\IOOC_Workspace\IOOC_client\bin\Debug\Newtonsoft.Json.dll
+E:\source\VS\IOOC_Workspace\IOOC_client\bin\Debug\Newtonsoft.Json.xml
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.CopyComplete
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.config
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\bin\Debug\IOOC_client.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\bin\Debug\Newtonsoft.Json.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\bin\Debug\Newtonsoft.Json.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.AssemblyReference.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\reset Password.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\Retrieve_passwd.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\App.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client_MarkupCompile.lref
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\AboutUsWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ApplyConsultationWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\DepartmentConsultationWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DepartmentInformationManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DiagnosticReportManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\DoctorInformationManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\reset Password.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\Retrieve_passwd.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\GetInfoWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\HomeWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ImageViewWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\LoginWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\MyCaseWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PathologicalDataManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\PatientInformationManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\PatientRegisterWindow..baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\PersonalSettingWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\diagnostic.workstation\ReportDiagnosisWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\sampling.workstation\SliceWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\director.workstation\UserManageWindow.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.g.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.Properties.Resources.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.GenerateResource.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.CoreCompileInputs.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.pdb
+E:\source\VS\IOOC_Workspace\IOOC_client\obj\Debug\IOOC_client.csproj.AssemblyReference.cache

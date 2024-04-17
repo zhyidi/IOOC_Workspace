@@ -1,0 +1,121 @@
+﻿<Window x:Class="IOOC_client.PatientRegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IOOC_client"
+        mc:Ignorable="d"
+        Title="patientregisterwindow" Height="675" Width="1200">
+    <Viewbox HorizontalAlignment="Left" VerticalAlignment="Top" Stretch="Fill">
+        <Canvas Height="675" Width="1200">
+            <Grid Background="#FF02C0C0" Width="1200" Height="675">
+                <Button Content="首 页" HorizontalAlignment="Left" Margin="295,9,0,0" VerticalAlignment="Top" Width="72" Height="40" FontSize="28" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click"/>
+
+                <Button Content="关于我们" HorizontalAlignment="Left" Margin="1051,10,0,0" VerticalAlignment="Top" Width="120" Height="40" FontSize="28" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click_1"/>
+                <Rectangle HorizontalAlignment="Left" Height="620" Margin="162,55,0,0" Stroke="Black" VerticalAlignment="Top" Width="1032" Fill="#FFDCF6F6"/>
+                <Rectangle HorizontalAlignment="Left" Height="611" Margin="823,64,0,0" Stroke="Black" VerticalAlignment="Top" Width="377" Fill="#FF02C0C0"/>
+                <Button Content="病人登记 |" HorizontalAlignment="Left" Margin="30,103,0,0" VerticalAlignment="Top" Width="112" Height="40" FontSize="24" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0"  BorderBrush="#FF707070"/>
+                <Button Content="取材信息" HorizontalAlignment="Left" Margin="26,165,0,0" VerticalAlignment="Top" Width="107" Height="40" FontSize="24" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click_6" />
+                <Label Content="患者姓名：" HorizontalAlignment="Left" Margin="180,85,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+
+
+
+                <TextBox x:Name="text1" HorizontalAlignment="Left" Height="34" Margin="292,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" FontSize="22"/>
+                <Label Content="民       族：" HorizontalAlignment="Left" Margin="180,133,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <TextBox x:Name="text4" HorizontalAlignment="Left" Height="34" Margin="292,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" FontSize="22"/>
+                <Label Content="籍       贯：" HorizontalAlignment="Left" Margin="180,183,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <TextBox x:Name="text7" HorizontalAlignment="Left" Height="34" Margin="292,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" FontSize="22"/>
+                <Label Content="申请类型：" HorizontalAlignment="Left" Margin="180,233,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <TextBox x:Name="text10" HorizontalAlignment="Left" Height="34" Margin="292,237,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" FontSize="22"/>
+                <Label Content="详细情况：" HorizontalAlignment="Left" Margin="180,285,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <TextBox x:Name="text12" HorizontalAlignment="Left" Height="308" Margin="292,289,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="509" FontSize="22"/>
+                <Label Content="性       别：" HorizontalAlignment="Left" Margin="386,84,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <Label Content="婚       否：" HorizontalAlignment="Left" Margin="386,132,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <TextBox x:Name="text5" HorizontalAlignment="Left" Height="34" Margin="498,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" FontSize="22"/>
+                <Label Content="身份证号：" HorizontalAlignment="Left" Margin="386,182,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <TextBox x:Name="text8" HorizontalAlignment="Left" Height="34" Margin="498,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" FontSize="22"/>
+                <Label Content="送检医生：" HorizontalAlignment="Left" Margin="386,233,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <TextBox x:Name="text11" HorizontalAlignment="Left" Height="34" Margin="498,237,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" FontSize="22"/>
+                <Label Content="年       龄：" HorizontalAlignment="Left" Margin="592,84,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <TextBox x:Name="text3" HorizontalAlignment="Left" Height="34" Margin="704,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" FontSize="22"/>
+                <Label Content="职       业：" HorizontalAlignment="Left" Margin="592,132,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <TextBox x:Name="text6" HorizontalAlignment="Left" Height="34" Margin="704,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" FontSize="22"/>
+                <Label Content="联系方式：" HorizontalAlignment="Left" Margin="592,183,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <TextBox x:Name="text9" HorizontalAlignment="Left" Height="34" Margin="704,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" FontSize="22"/>
+                <Label Content="送检日期：" HorizontalAlignment="Left" Margin="592,233,0,0" VerticalAlignment="Top" Width="112" FontSize="22"/>
+                <Label Content="病理号：" HorizontalAlignment="Left" Margin="841,89,0,0" VerticalAlignment="Top" Width="83" FontSize="22"/>
+
+                <TextBox x:Name="text13" HorizontalAlignment="Left" Height="34" Margin="938,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" FontSize="22" TextChanged="text13_TextChanged">
+                    <TextBox.Resources>
+                        <VisualBrush x:Key="HintText" TileMode="None" Opacity="0.5" Stretch="None" AlignmentX="Left">
+                            <VisualBrush.Visual>
+                                <TextBlock FontStyle="Italic" Text="输入病理号查询"/>
+                            </VisualBrush.Visual>
+                        </VisualBrush>
+                    </TextBox.Resources>
+                    <TextBox.Style>
+                        <Style TargetType="TextBox">
+                            <Style.Triggers>
+                                <Trigger Property="Text" Value="{x:Null}">
+                                    <Setter Property="Background" Value="{StaticResource HintText}"/>
+                                </Trigger>
+                                <Trigger Property="Text" Value="">
+                                    <Setter Property="Background" Value="{StaticResource HintText}"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBox.Style>
+                </TextBox>
+                <Button x:Name="DengJiButton" Content="登记" HorizontalAlignment="Left" Margin="504,616,0,0" VerticalAlignment="Top" Width="91" Height="34" FontSize="22" RenderTransformOrigin="-0.112,1.039" Click="DengJiButton_Click"/>
+                <Label Content="登记日期:" HorizontalAlignment="Left" Margin="839,140,0,0" VerticalAlignment="Top" Width="120" FontSize="22" RenderTransformOrigin="0.5,0.5">
+                    <Label.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.675"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Label.RenderTransform>
+                </Label>
+                <DatePicker x:Name="date2" HorizontalAlignment="Left" Margin="952,139,0,0" VerticalAlignment="Top" FontSize="22" Height="35" Width="206" RenderTransformOrigin="0.36,0.631"/>
+                <Label Content="至" HorizontalAlignment="Left" Margin="907,192,0,0" VerticalAlignment="Top" Width="35" FontSize="22" RenderTransformOrigin="-1.327,0.765">
+                    <Label.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.675"/>
+                            <TranslateTransform X="0.124" Y="0.752"/>
+                        </TransformGroup>
+                    </Label.RenderTransform>
+                </Label>
+                <DatePicker x:Name="date3" HorizontalAlignment="Left" Margin="952,193,0,0" VerticalAlignment="Top" FontSize="22" Height="36" Width="206" SelectedDateChanged="DatePicker_SelectedDateChanged"/>
+                <DataGrid x:Name="datagrid1" HorizontalAlignment="Left" Height="377" Margin="841,246,0,0" VerticalAlignment="Top" Width="339" VerticalScrollBarVisibility="Visible" FontSize="20">
+
+                </DataGrid>
+                <Button Content="切片处理" HorizontalAlignment="Left" Margin="26,219,0,0" VerticalAlignment="Top" Width="107" Height="40" FontSize="24" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click_7" />
+                <DatePicker x:Name="date1" HorizontalAlignment="Left" Margin="704,236,0,0" VerticalAlignment="Top" FontSize="22" Height="35" Width="114" RenderTransformOrigin="0.36,0.631"/>
+                <ComboBox x:Name="sex" HorizontalAlignment="Left" Margin="503,93,0,0" VerticalAlignment="Top" Width="91" Height="30"/>
+                <Menu x:Name="Take" HorizontalAlignment="Left" Height="40" Margin="422,9,0,0" VerticalAlignment="Top" Width="161" Foreground="#FF70BAE1" Background="#FF02C0C0"  MouseEnter="Take_MouseEnter" MouseLeave="Take_MouseLeave" >
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="150" BorderThickness="0" Content="取材工作站" FontSize="28" FontWeight="Bold"/>
+                    <Button Background="#FF02C0C0" Content="病人登记" Foreground="#FFF4F4F5" FontSize="28" Height="65" Width="150" FontWeight="Bold" BorderThickness="0,0,0,1"/>
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="65" Width="150" Content="取材信息" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_4" />
+                    <Button Background="#FF02C0C0" Content="切片处理" Foreground="#FFF2F2F3" FontWeight="Bold" FontSize="28" Height="65" Padding="0,0,0,-10" Width="150" BorderThickness="0,0,0,1" Click="Button_Click_5"/>
+                </Menu>
+                <Menu x:Name="diagnosis" HorizontalAlignment="Left" Height="40" Margin="626,10,0,0" VerticalAlignment="Top" Width="158" Foreground="#FF70BAE1" Background="#FF02C0C0"  MouseEnter="diagnosis_MouseEnter" MouseLeave="diagnosis_MouseLeave">
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="150" BorderThickness="0" Content="诊断工作站" FontSize="28" FontWeight="Bold"/>
+                    <Button Background="#FF02C0C0" Content="科内会诊" Foreground="#FFF4F4F5" FontSize="28" Height="65" Width="150" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_2"/>
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="65" Width="150" Content="病理诊断" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_3"/>
+                </Menu>
+                <Menu x:Name="director" HorizontalAlignment="Left" Height="40" Margin="845,10,0,0" VerticalAlignment="Top" Width="161" Foreground="#FF70BAE1" Background="#FF02C0C0" MouseEnter="director_MouseEnter" MouseLeave="director_MouseLeave">
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="150" BorderThickness="0" Content="主任工作站" FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.503,-0.3"/>
+                    <Button Background="#FF02C0C0" Content="用户管理" Foreground="#FFF4F4F5" FontSize="28" Height="65" Width="150" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_8"/>
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="65" Width="150" Content="信息管理" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_9"/>
+                </Menu>
+            </Grid>
+            <Image Source="/IOOC_client;component/image/医院LOGO.png" Stretch="Fill" Opacity="0.994" RenderTransformOrigin="-0.743,0.402" Height="39" Canvas.Left="11" Canvas.Top="10" Width="39"/>
+            <Label Content="病 理 科" HorizontalAlignment="Left" VerticalAlignment="Top" Height="47" Width="114" FontSize="26" OpacityMask="#FF2C509F" BorderBrush="#FF8E8E8E" Background="{x:Null}" Foreground="White" FontWeight="Bold" Canvas.Left="53" Canvas.Top="10"/>
+            <Image HorizontalAlignment="Left" Height="31" VerticalAlignment="Top" Width="37" Source="/IOOC_client;component/image/设计目录.png" RenderTransformOrigin="0.706,0.456" Canvas.Left="172" Canvas.Top="18"/>
+        </Canvas>
+    </Viewbox>
+
+</Window>

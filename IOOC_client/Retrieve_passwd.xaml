@@ -1,0 +1,19 @@
+﻿<Window x:Class="IOOC_client.Retrieve_passwd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IOOC_client"
+        mc:Ignorable="d"
+        Title="Retrieve_passwd" Height="301.892" Width="350">
+    <Grid>
+        <Rectangle Fill="#FFDCF6F6" HorizontalAlignment="Left" Height="273" Margin="0,0,0,-1" Stroke="Black" VerticalAlignment="Top" Width="344"/>
+        <Button x:Name="verify_btn" Content="获取验证码" HorizontalAlignment="Left" Margin="209,158,0,0" VerticalAlignment="Top" Width="75" Height="22" Background="#FFDCF6F6" Cursor="Hand" BorderBrush="#FF707070" Padding="1" BorderThickness="0,0,0,1" Click="Button_Click"/>
+        <TextBox x:Name="ID_text" HorizontalAlignment="Left" Height="23" Margin="124,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160"/>
+        <TextBox x:Name="mail_text" HorizontalAlignment="Left" Height="23" Margin="124,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160"/>
+        <TextBox x:Name="verify_code" HorizontalAlignment="Left" Height="23" Margin="76,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119" RenderTransformOrigin="0.945,0.635"/>
+        <Label Content="账号：" HorizontalAlignment="Left" Margin="57,43,0,0" VerticalAlignment="Top" Width="63" FontSize="18"/>
+        <Label Content="邮箱：" HorizontalAlignment="Left" Margin="57,98,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.225,0.148" Width="63" FontSize="18"/>
+        <Button Content="提交" HorizontalAlignment="Left" Margin="133,222,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.707,0.641" Cursor="Hand" Click="Button_Click_1"/>
+    </Grid>
+</Window>

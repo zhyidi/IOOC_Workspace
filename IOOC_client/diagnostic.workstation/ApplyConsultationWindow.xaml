@@ -1,0 +1,52 @@
+﻿<Window x:Class="IOOC_client.ApplyConsultationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IOOC_client"
+        mc:Ignorable="d"
+        Title="ApplyConsultationWindow" Height="675" Width="1200">
+    <Grid Background="#FF02C0C0">
+        <Rectangle HorizontalAlignment="Left" Height="591" Margin="172,55,0,0" Stroke="Black" VerticalAlignment="Top" Width="1022" Fill="#FFDCF6F6"/>
+        <Image HorizontalAlignment="Left" Height="30" Margin="-54,24,0,0" VerticalAlignment="Top" Width="32" Source="image/病理科 (1).png" RenderTransformOrigin="0.63,-0.09"/>
+        <Image HorizontalAlignment="Left" Height="52" Margin="213,20,0,0" VerticalAlignment="Top" Width="37" Source="image/设计目录.png" RenderTransformOrigin="0.706,0.456"/>
+        <Button Content="首 页" HorizontalAlignment="Left" Margin="295,10,0,0" VerticalAlignment="Top" Width="72" Height="40" FontSize="28" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click_3"/>
+
+        <Button Content="关于我们" HorizontalAlignment="Left" Margin="1051,10,0,0" VerticalAlignment="Top" Width="120" Height="40" FontSize="28" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click_4"/>
+        <Button Content="向我申请 " HorizontalAlignment="Left" Margin="50,105,0,0" VerticalAlignment="Top" Width="112" Height="40" FontSize="24" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click" BorderBrush="#FF707070"/>
+        <Button Content="申请会诊 |" HorizontalAlignment="Left" Margin="50,167,0,0" VerticalAlignment="Top" Width="117" Height="40" FontSize="24" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="261,167,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="患者姓名" HorizontalAlignment="Left" Margin="261,115,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Button Content="提交" HorizontalAlignment="Left" Margin="358,506,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1" FontSize="16"/>
+        <Label Content="性别" HorizontalAlignment="Left" Margin="261,160,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="病情介绍" HorizontalAlignment="Left" Margin="261,243,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="textboxPatientName" HorizontalAlignment="Left" Height="24" Margin="372,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textboxPatientName_TextChanged"/>
+        <TextBox x:Name="textboxCasePresentation" HorizontalAlignment="Left" Height="67" Margin="353,251,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="356"/>
+        <RadioButton x:Name="radiobtnMan" Content="男" HorizontalAlignment="Left" Margin="358,166,0,0" VerticalAlignment="Top" Checked="radiobtnMan_Checked" GroupName="Gender"/>
+        <RadioButton x:Name="radiobtnWoman" Content="女" HorizontalAlignment="Left" Margin="422,166,0,0" VerticalAlignment="Top" Checked="radiobtnWoman_Checked" GroupName="Gender"/>
+        <Label Content="申请科室" HorizontalAlignment="Left" Margin="261,336,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <ComboBox x:Name="comboboxApplyDepartment" HorizontalAlignment="Left" Margin="358,342,0,0" VerticalAlignment="Top" Width="120" />
+        <Label Content="会诊目的" HorizontalAlignment="Left" Margin="261,374,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="textboxConsultationPurpose" HorizontalAlignment="Left" Height="105" Margin="353,380,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="356"/>
+        <Image Source="/IOOC_client;component/image/医院LOGO.png" Stretch="Fill" Opacity="0.994" RenderTransformOrigin="-0.743,0.402" Margin="11,10,1145,598.5"/>
+        <Label Content="病 理 科" HorizontalAlignment="Left" Margin="53,10,0,0" VerticalAlignment="Top" Height="47" Width="114" FontSize="26" OpacityMask="#FF2C509F" BorderBrush="#FF8E8E8E" Background="{x:Null}" Foreground="White" FontWeight="Bold"/>
+        <Image HorizontalAlignment="Left" Height="31" Margin="172,18,0,0" VerticalAlignment="Top" Width="37" Source="/IOOC_client;component/image/设计目录.png" RenderTransformOrigin="0.706,0.456"/>
+        <Menu x:Name="Take" HorizontalAlignment="Left" Height="40" Margin="422,9,0,0" VerticalAlignment="Top" Width="161" Foreground="#FF70BAE1" Background="#FF02C0C0" MouseEnter="Take_MouseEnter" MouseLeave="Take_MouseLeave">
+            <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="150" BorderThickness="0" Content="取材工作站" FontSize="28" FontWeight="Bold" Click="Button_Click"/>
+            <Button Background="#FF02C0C0" Content="病人登记" Foreground="#FFF4F4F5" FontSize="28" Height="65" Width="150" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_6" />
+            <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="65" Width="150" Content="取材信息" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_7"/>
+            <Button Background="#FF02C0C0" Content="切片处理" Foreground="#FFF2F2F3" FontWeight="Bold" FontSize="28" Height="65" Padding="0,0,0,-10" Width="150" BorderThickness="0,0,0,1" Click="Button_Click_5"/>
+        </Menu>
+        <Menu x:Name="diagnosis" HorizontalAlignment="Left" Height="40" Margin="626,9,0,0" VerticalAlignment="Top" Width="158" Foreground="#FF70BAE1" Background="#FF02C0C0" MouseEnter="diagnosis_MouseEnter" MouseLeave="diagnosis_MouseLeave">
+            <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="150" BorderThickness="0" Content="诊断工作站" FontSize="28" FontWeight="Bold" />
+            <Button Background="#FF02C0C0" Content="科内会诊" Foreground="#FFF4F4F5" FontSize="28" Height="65" Width="150" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_8"/>
+            <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="65" Width="150" Content="病理诊断" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_2"/>
+        </Menu>
+        <Menu x:Name="director" HorizontalAlignment="Left" Height="40" Margin="845,9,0,0" VerticalAlignment="Top" Width="161" Foreground="#FF70BAE1" Background="#FF02C0C0" MouseEnter="director_MouseEnter" MouseLeave="director_MouseLeave">
+            <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="150" BorderThickness="0" Content="主任工作站" FontSize="28" FontWeight="Bold" RenderTransformOrigin="0.503,-0.3"/>
+            <Button Background="#FF02C0C0" Content="用户管理" Foreground="#FFF4F4F5" FontSize="28" Height="65" Width="150" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_8"/>
+            <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="65" Width="150" Content="信息管理" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_9"/>
+        </Menu>
+    </Grid>
+</Window>
+

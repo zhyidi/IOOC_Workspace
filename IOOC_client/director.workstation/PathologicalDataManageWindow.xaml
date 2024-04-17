@@ -1,0 +1,174 @@
+﻿<Window x:Class="IOOC_client.PathologicalDataManageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IOOC_client"
+        mc:Ignorable="d"
+        Title="PathologicalDataManageWindow" Height="675" Width="1200">
+    <Viewbox HorizontalAlignment="Left" VerticalAlignment="Top" Stretch="Fill">
+        <Canvas Height="675" Width="1200">
+            <Grid Background="#FF02C0C0"  Width="1200" Height="675">
+                <Rectangle HorizontalAlignment="Left" Height="618" Margin="172,57,0,0" Stroke="Black" VerticalAlignment="Top" Width="1022" Fill="#FFDCF6F6"/>
+                <Button Content="首页" HorizontalAlignment="Left" Margin="289,9,0,0" VerticalAlignment="Top" Width="62" Height="40" FontSize="28" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click_3"/>
+                <Button Content="关于我们" HorizontalAlignment="Left" Margin="1045,9,0,0" VerticalAlignment="Top" Width="120" Height="40" FontSize="28" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click_11"/>
+                <Button Content="病人信息" HorizontalAlignment="Left" Margin="35,104,0,0" VerticalAlignment="Top" Width="116" Height="40" FontSize="22" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click"/>
+
+
+                <Button Content="医生信息" HorizontalAlignment="Left" Margin="35,162,0,0" VerticalAlignment="Top" Width="116" Height="40" FontSize="22" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click"/>
+                <Button Content="科室状况" HorizontalAlignment="Left" Margin="35,222,0,0" VerticalAlignment="Top" Width="116" Height="40" FontSize="22" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click_4"/>
+                <Button Content="病理资料 |" HorizontalAlignment="Left" Margin="35,283,0,0" VerticalAlignment="Top" Width="116" Height="40" FontSize="22" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0"/>
+                <Button Content="诊断报告" HorizontalAlignment="Left" Margin="35,346,0,0" VerticalAlignment="Top" Width="116" Height="40" FontSize="22" FontWeight="Bold" Background="#FF02C0C0" Foreground="#FFF4F4F5" RenderTransformOrigin="1.004,3.135" BorderThickness="0" Click="Button_Click_5"/>
+                <ScrollViewer Height="605" Margin="172,70,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.156,-0.459">
+                    <StackPanel Orientation="Vertical" Height="1625" >
+                        <Label Content="病理登记信息：" HorizontalAlignment="Left" Margin="50,40,0,0" VerticalAlignment="Top" Width="278" FontSize="24"/>
+                        <DataGrid x:Name="datagrid1" HorizontalAlignment="Left" Height="189" Margin="50,50,0,0" VerticalAlignment="Top" Width="822" VerticalScrollBarVisibility="Hidden" Background="#FFDCF6F6" ColumnHeaderHeight="30">
+                            <DataGrid.RowStyle>
+                                <Style TargetType="{x:Type DataGridRow}">
+                                    <Style.Triggers>
+                                        <Trigger Property="ItemsControl.AlternationIndex" 
+                                 Value="0">
+                                            <Setter Property="Background" Value="#FFDCF6F6" />
+                                        </Trigger>
+                                        <Trigger Property="ItemsControl.AlternationIndex" 
+                                 Value="1">
+                                            <Setter Property="Background" Value="White" />
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </DataGrid.RowStyle>
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+                                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                    <Setter Property="Background" Value="#FFD6E7F2"/>
+                                    <Setter Property="Foreground" Value="Black"/>
+                                    <Setter Property="BorderThickness" Value="1"/>
+                                    <Setter Property="BorderBrush" Value="#FF688CAF"/>
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <!--<DataGrid.Columns>
+                                <DataGridTextColumn Width="120" Header="病理号" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="120" Header="医生编号" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="120" Header="患者编号" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="120" Header="申请类型" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="120" Header="送检日期" Binding="{Binding Number}" IsReadOnly="True"/>
+
+                            </DataGrid.Columns>-->
+                        </DataGrid>
+                        <WrapPanel Height="134" Width="825" HorizontalAlignment="Left" Margin="50,10,0,0">
+                            <Label Content="病理号" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <Label Content="医生编号" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <Label Content="患者编号" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <Label Content="申请类型" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <TextBox x:Name="text1" Height="40" TextWrapping="Wrap" Width="100" Margin="-900,60,0,0"/>
+                            <TextBox x:Name="text2" Height="40" TextWrapping="Wrap" Width="100" Margin="-630,60,0,0"/>
+                            <TextBox x:Name="text3" Height="40" TextWrapping="Wrap" Width="100" Margin="-360,60,0,0"/>
+                            <ComboBox x:Name="check1" HorizontalAlignment="Left" Margin="-95,60,0,0" VerticalAlignment="Top" Width="120" Height="38"/>
+                            <DatePicker x:Name="date1" Height="28" Margin="30,60,0,0"/>
+                            <DatePicker x:Name="date2" Height="28" Margin="40,60,0,0" SelectedDateChanged="DatePicker_SelectedDateChanged"/>
+                        </WrapPanel>
+                        <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="80" Content="筛选" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Margin="-780,0,0,0" Click="Button_Click_12"/>
+
+                        <Label Content="病理取材信息：" HorizontalAlignment="Left" Margin="50,40,0,0" VerticalAlignment="Top" Width="278" FontSize="24"/>
+                        <DataGrid x:Name="datagrid2" HorizontalAlignment="Left" Height="202" Margin="50,50,0,0" VerticalAlignment="Top" Width="826" VerticalScrollBarVisibility="Hidden" Background="#FFDCF6F6" ColumnHeaderHeight="30">
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+                                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                    <Setter Property="Background" Value="#FFDCF6F6"/>
+                                    <Setter Property="Foreground" Value="Black"/>
+                                    <Setter Property="BorderThickness" Value="1"/>
+                                    <Setter Property="BorderBrush" Value="#FF688CAF"/>
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <!--<DataGrid.Columns>
+                                <DataGridTextColumn Width="60" Header="取材编号" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="60" Header="病理编号" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="60" Header="取材部位" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="100" Header="材块数" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="120" Header="取材医生" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="80" Header="取材日期" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="120" Header="标本处理" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="100" Header="存放位置" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="120" Header="质检状态" Binding="{Binding Number}" IsReadOnly="True"/>
+                            </DataGrid.Columns>-->
+                        </DataGrid>
+                        <WrapPanel Height="134" Width="825" HorizontalAlignment="Left" Margin="50,10,0,0">
+                            <Label Content="病理编号" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <Label Content="取材部位" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <Label Content="存放位置" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <TextBox x:Name="text4" Height="40" TextWrapping="Wrap" Width="100" Margin="-630,60,0,0"/>
+                            <TextBox x:Name="text5" Height="40" TextWrapping="Wrap" Width="100" Margin="-380,60,0,0"/>
+                            <TextBox x:Name="text6" Height="40" TextWrapping="Wrap" Width="100" Margin="-100,60,0,0"/>
+                            <DatePicker x:Name="date3" Height="28" Margin="30,60,0,0"/>
+                            <DatePicker x:Name="date4" Height="28" Margin="40,60,0,0" SelectedDateChanged="date4_SelectedDateChanged"/>
+                        </WrapPanel>
+                        <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="80" Content="筛选" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Margin="-780,0,0,0" Click="Button_Click_13"/>
+
+
+                        <Label Content="病理切片信息：" HorizontalAlignment="Left" Margin="50,40,0,0" VerticalAlignment="Top" Width="278" FontSize="24"/>
+                        <DataGrid x:Name="datagrid3" HorizontalAlignment="Left" Height="263" Margin="50,50,0,0" VerticalAlignment="Top" Width="826" VerticalScrollBarVisibility="Hidden" Background="#FFDCF6F6" ColumnHeaderHeight="30">
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+                                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                    <Setter Property="Background" Value="#FFDCF6F6"/>
+                                    <Setter Property="Foreground" Value="Black"/>
+                                    <Setter Property="BorderThickness" Value="1"/>
+                                    <Setter Property="BorderBrush" Value="#FF688CAF"/>
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <!--<DataGrid.Columns>
+                                <DataGridTextColumn Width="60" Header="切片编号" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="60" Header="病理编号" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="60" Header="蜡块号" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="100" Header="包埋医生" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="120" Header="包埋日期" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="80" Header="包埋状态" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="120" Header="切片类型" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="100" Header="切片医生" Binding="{Binding Number}" IsReadOnly="True"/>
+                                <DataGridTextColumn Width="120" Header="切片日期" Binding="{Binding Number}" IsReadOnly="True"/>
+                            </DataGrid.Columns>-->
+                        </DataGrid>
+                        <WrapPanel Height="127" Width="825" HorizontalAlignment="Left" Margin="50,10,0,0">
+                            <Label Content="病理编号" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <Label Content="包埋医生" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <Label Content="切片医生" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <Label Content="蜡块号" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <Label Content="包埋类型" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <Label Content="切片类型" Margin="30,10,0,0" FontSize="20" Width="100"/>
+                            <TextBox x:Name="text7" Height="40" TextWrapping="Wrap" Width="100" Margin="-1420,60,0,0"/>
+                            <TextBox x:Name="text8" Height="40" TextWrapping="Wrap" Width="100" Margin="-1160,60,0,0"/>
+                            <TextBox x:Name="text9" Height="40" TextWrapping="Wrap" Width="100" Margin="-900,60,0,0"/>
+                            <TextBox x:Name="text10" Height="40" TextWrapping="Wrap" Width="100" Margin="-650,60,0,0"/>
+                            <ComboBox x:Name="check2" Margin="-380,60,0,0" VerticalAlignment="Top" Width="100" Height="38"/>
+                            <ComboBox x:Name="check3" Margin="-100,60,0,0" VerticalAlignment="Top" Width="100" Height="38"/>
+
+                        </WrapPanel>
+                        <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="80" Content="筛选" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Margin="-780,0,0,0" Click="Button_Click_14"/>
+
+                    </StackPanel>
+                </ScrollViewer>
+                <Menu x:Name="Take" HorizontalAlignment="Left" Height="40" Margin="405,9,0,0" VerticalAlignment="Top" Width="161" Foreground="#FF70BAE1" Background="#FF02C0C0" MouseEnter="Take_MouseEnter" MouseLeave="Take_MouseLeave">
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="150" BorderThickness="0" Content="取材工作站" FontSize="28" FontWeight="Bold"/>
+                    <Button Background="#FF02C0C0" Content="病人登记" Foreground="#FFF4F4F5" FontSize="28" Height="65" Width="150" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_6"/>
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="65" Width="150" Content="取材信息" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_7"/>
+                    <Button Background="#FF02C0C0" Content="切片处理" Foreground="#FFF2F2F3" FontWeight="Bold" FontSize="28" Height="65" Padding="0,0,0,-10" Width="150" BorderThickness="0,0,0,1" Click="Button_Click_8"/>
+                </Menu>
+                <Menu x:Name="diagnosis" HorizontalAlignment="Left" Height="40" Margin="626,9,0,0" VerticalAlignment="Top" Width="161" Foreground="#FF70BAE1" Background="#FF02C0C0" MouseEnter="diagnosis_MouseEnter" MouseLeave="diagnosis_MouseLeave">
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="150" BorderThickness="0" Content="诊断工作站" FontSize="28" FontWeight="Bold"/>
+                    <Button Background="#FF02C0C0" Content="科内会诊" Foreground="#FFF4F4F5" FontSize="28" Height="65" Width="150" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_9"/>
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="65" Width="150" Content="病理诊断" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_10"/>
+                </Menu>
+                <Menu x:Name="director" HorizontalAlignment="Left" Height="40" Margin="845,9,0,0" VerticalAlignment="Top" Width="161" Foreground="#FF70BAE1" Background="#FF02C0C0" MouseEnter="director_MouseEnter" MouseLeave="director_MouseLeave">
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="40" Width="150" BorderThickness="0" Content="主任工作站" FontSize="28" FontWeight="Bold"/>
+                    <Button Background="#FF02C0C0" Content="用户管理" Foreground="#FFF4F4F5" FontSize="28" Height="65" Width="150" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_1"/>
+                    <Button Background="#FF02C0C0" Foreground="#FFF4F4F5" Height="65" Width="150" Content="资料管理" FontSize="28" FontWeight="Bold" BorderThickness="0,0,0,1" Click="Button_Click_2"/>
+                </Menu>
+                <Image Source="/IOOC_client;component/image/医院LOGO.png" Stretch="Fill" Opacity="0.994" RenderTransformOrigin="-0.743,0.402" Margin="11,10,1150,626"/>
+                <Label Content="病 理 科" HorizontalAlignment="Left" Margin="53,10,0,0" VerticalAlignment="Top" Height="47" Width="114" FontSize="26" OpacityMask="#FF2C509F" BorderBrush="#FF8E8E8E" Background="{x:Null}" Foreground="White" FontWeight="Bold"/>
+                <Image HorizontalAlignment="Left" Height="31" Margin="172,18,0,0" VerticalAlignment="Top" Width="37" Source="/IOOC_client;component/image/设计目录.png" RenderTransformOrigin="0.706,0.456"/>
+
+            </Grid>
+        </Canvas>
+    </Viewbox>
+
+</Window>

@@ -1,0 +1,256 @@
+E:\source\VS\IOOC_server\bin\Debug\IOOC_server.exe.config
+E:\source\VS\IOOC_server\bin\Debug\IOOC_server.exe
+E:\source\VS\IOOC_server\bin\Debug\IOOC_server.pdb
+E:\source\VS\IOOC_server\bin\Debug\BouncyCastle.Crypto.dll
+E:\source\VS\IOOC_server\bin\Debug\Google.Protobuf.dll
+E:\source\VS\IOOC_server\bin\Debug\K4os.Compression.LZ4.dll
+E:\source\VS\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\source\VS\IOOC_server\bin\Debug\K4os.Hash.xxHash.dll
+E:\source\VS\IOOC_server\bin\Debug\MySql.Data.dll
+E:\source\VS\IOOC_server\bin\Debug\System.Buffers.dll
+E:\source\VS\IOOC_server\bin\Debug\System.Memory.dll
+E:\source\VS\IOOC_server\bin\Debug\System.Numerics.Vectors.dll
+E:\source\VS\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\source\VS\IOOC_server\bin\Debug\Ubiety.Dns.Core.dll
+E:\source\VS\IOOC_server\bin\Debug\Zstandard.Net.dll
+E:\source\VS\IOOC_server\bin\Debug\Google.Protobuf.pdb
+E:\source\VS\IOOC_server\bin\Debug\Google.Protobuf.xml
+E:\source\VS\IOOC_server\bin\Debug\K4os.Compression.LZ4.xml
+E:\source\VS\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\source\VS\IOOC_server\bin\Debug\K4os.Hash.xxHash.xml
+E:\source\VS\IOOC_server\bin\Debug\MySql.Data.xml
+E:\source\VS\IOOC_server\bin\Debug\System.Buffers.xml
+E:\source\VS\IOOC_server\bin\Debug\System.Memory.xml
+E:\source\VS\IOOC_server\bin\Debug\System.Numerics.Vectors.xml
+E:\source\VS\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server.csprojAssemblyReference.cache
+E:\source\VS\IOOC_server\obj\Debug\MainWindow.g.cs
+E:\source\VS\IOOC_server\obj\Debug\App.g.cs
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.cache
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.lref
+E:\source\VS\IOOC_server\obj\Debug\MainWindow.baml
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server.g.resources
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server.Properties.Resources.resources
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server.csproj.GenerateResource.cache
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server.csproj.CoreCompileInputs.cache
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server.csproj.CopyComplete
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server.exe
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server.pdb
+E:\source\VS\IOOC_server\bin\Debug\IOOC_server.exe.manifest
+E:\source\VS\IOOC_server\bin\Debug\IOOC_server.application
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server.exe.manifest
+E:\source\VS\IOOC_server\obj\Debug\IOOC_server.application
+E:\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe.config
+E:\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.exe
+E:\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.pdb
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csprojAssemblyReference.cache
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.exe
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.pdb
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe.config
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe.manifest
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.application
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.pdb
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\BouncyCastle.Crypto.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Hash.xxHash.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\MySql.Data.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\System.Buffers.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\System.Memory.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\System.Numerics.Vectors.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\Ubiety.Dns.Core.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\Zstandard.Net.dll
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.pdb
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.xml
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.xml
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Hash.xxHash.xml
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\MySql.Data.xml
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\System.Buffers.xml
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\System.Memory.xml
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\System.Numerics.Vectors.xml
+F:\软件工程\IOOC_Workspace\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\Server_Home.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\App.g.cs
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.cache
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.lref
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\Server_Home.baml
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.g.resources
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.Properties.Resources.resources
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.GenerateResource.cache
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.CoreCompileInputs.cache
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.exe.manifest
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.application
+F:\软件工程\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.CopyComplete
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe.config
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe.manifest
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.application
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.pdb
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\BouncyCastle.Crypto.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Hash.xxHash.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\MySql.Data.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\System.Buffers.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\System.Memory.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\System.Numerics.Vectors.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\Ubiety.Dns.Core.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\Zstandard.Net.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.pdb
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.xml
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.xml
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Hash.xxHash.xml
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\MySql.Data.xml
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\System.Buffers.xml
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\System.Memory.xml
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\System.Numerics.Vectors.xml
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\Server_Home.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\App.g.cs
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.cache
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.lref
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\Server_Home.baml
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.g.resources
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.Properties.Resources.resources
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.GenerateResource.cache
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.CoreCompileInputs.cache
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.exe.manifest
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.application
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.CopyComplete
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.exe
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe.config
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\BouncyCastle.Crypto.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Hash.xxHash.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\MySql.Data.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\System.Buffers.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\System.Memory.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\System.Numerics.Vectors.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\Ubiety.Dns.Core.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\Zstandard.Net.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Hash.xxHash.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\MySql.Data.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\System.Buffers.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\System.Memory.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\System.Numerics.Vectors.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.AssemblyReference.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\Server_Home.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\App.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.lref
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\Server_Home.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.g.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.Properties.Resources.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.GenerateResource.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.CoreCompileInputs.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(4)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe.config
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\BouncyCastle.Crypto.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Hash.xxHash.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\MySql.Data.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\System.Buffers.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\System.Memory.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\System.Numerics.Vectors.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\Ubiety.Dns.Core.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\Zstandard.Net.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Hash.xxHash.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\MySql.Data.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\System.Buffers.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\System.Memory.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\System.Numerics.Vectors.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.AssemblyReference.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\Server_Home.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\App.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.lref
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\Server_Home.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.g.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.Properties.Resources.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.GenerateResource.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.CoreCompileInputs.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(5)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.pdb
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\Newtonsoft.Json.dll
+E:\source\VS\IOOC_Workspace\IOOC_server\bin\Debug\Newtonsoft.Json.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe.config
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\IOOC_server.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\BouncyCastle.Crypto.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Hash.xxHash.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\MySql.Data.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\Newtonsoft.Json.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\System.Buffers.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\System.Memory.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\System.Numerics.Vectors.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\Ubiety.Dns.Core.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\Zstandard.Net.dll
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.pdb
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\Google.Protobuf.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\K4os.Hash.xxHash.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\MySql.Data.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\Newtonsoft.Json.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\System.Buffers.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\System.Memory.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\System.Numerics.Vectors.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.AssemblyReference.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\Server_Home.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\App.g.cs
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server_MarkupCompile.lref
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\Server_Home.baml
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.g.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.Properties.Resources.resources
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.GenerateResource.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.CoreCompileInputs.cache
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.exe.manifest
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.application
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.exe
+D:\QQ Files\710679501\FileRecv\IOOC_Workspace(7)\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.pdb
+E:\source\VS\IOOC_Workspace\IOOC_server\obj\Debug\IOOC_server.csproj.AssemblyReference.cache
